@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Documentos\C2\Final practica\FinalPractica1\FinalPractica1\bin\Debug\FinalPractica1.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\C2\Final practica\FinalPractica1\FinalPractica1\bin\Debug\FinalPractica1.exe
+C:\Users\USUARIO\OneDrive\Documentos\C2\Final practica\FinalPractica1\FinalPractica1\bin\Debug\FinalPractica1.pdb
+C:\Users\USUARIO\OneDrive\Documentos\C2\Final practica\FinalPractica1\FinalPractica1\obj\Debug\FinalPractica1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\C2\Final practica\FinalPractica1\FinalPractica1\obj\Debug\FinalPractica1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\C2\Final practica\FinalPractica1\FinalPractica1\obj\Debug\FinalPractica1.exe
+C:\Users\USUARIO\OneDrive\Documentos\C2\Final practica\FinalPractica1\FinalPractica1\obj\Debug\FinalPractica1.pdb
